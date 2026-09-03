@@ -1,4 +1,4 @@
-# Mava / matcc
+# matcc
 
 **matcc** is a small C-like compiler targeting the **BatPU-2 8-bit architecture**.
 
